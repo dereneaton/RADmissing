@@ -9,9 +9,7 @@ I. Simulation of RAD-seq data and analysis of missing data
 + [Simulations](http://nbviewer.jupyter.org/github/dereneaton/RADmissing/blob/master/sims_nb_simulations.ipynb)  
 
 
-II. Assembly of empirical RAD-seq data sets
-
-There are 10 notebooks corresponding to the 10 empirical data sets assembled for this study. 
+II. Assembly of 10 empirical RAD-seq data sets
 
 + [Nadeau et al. (Heliconius)](http://nbviewer.jupyter.org/github/dereneaton/RADmissing/blob/master/emp_nb_Heliconius.ipynb)  
 + [Eaton et al. (Viburnum)](http://nbviewer.jupyter.org/github/dereneaton/RADmissing/blob/master/emp_nb_Viburnum.ipynb)  
